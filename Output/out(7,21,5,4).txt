@@ -1,0 +1,1936 @@
+1	a
+1	aa
+1	aaa
+1	aaaa
+1	bbbbb
+20	cccaaa
+1	aaaaaaa
+mid : 20, tot : 20
+1	a
+1	aa
+1	aaa
+1	bbbb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 20, tot : 40
+1	a
+1	aa
+1	aaa
+1	cccc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 20, tot : 60
+1	a
+1	aa
+1	aaa
+1	cccc
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 61
+1	a
+1	aa
+1	aaa
+6	aabb
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 120, tot : 181
+1	a
+1	aa
+1	aaa
+6	bbcc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 301
+1	a
+1	aa
+1	aaa
+6	bbcc
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 841
+1	a
+1	aa
+1	aaa
+6	ccaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 847
+1	a
+1	aa
+1	bbb
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 90, tot : 937
+1	a
+1	aa
+1	bbb
+1	cccc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 938
+1	a
+1	aa
+1	bbb
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 120, tot : 1058
+1	a
+1	aa
+1	bbb
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 1064
+1	a
+1	aa
+1	bbb
+6	ccaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 1604
+1	a
+1	aa
+1	ccc
+1	aaaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 1605
+1	a
+1	aa
+1	ccc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 1606
+1	a
+1	aa
+1	ccc
+6	aabb
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 1726
+1	a
+1	aa
+6	abc
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 120, tot : 1846
+1	a
+1	aa
+6	abc
+1	bbbb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 120, tot : 1966
+1	a
+1	aa
+6	abc
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 720, tot : 2686
+1	a
+1	aa
+6	abc
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 3240, tot : 5926
+1	a
+1	aa
+6	abc
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 720, tot : 6646
+1	a
+1	bb
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 20, tot : 6666
+1	a
+1	bb
+1	aaa
+1	cccc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 20, tot : 6686
+1	a
+1	bb
+1	aaa
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 120, tot : 6806
+1	a
+1	bb
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 6926
+1	a
+1	bb
+1	aaa
+6	ccaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 7466
+1	a
+1	bb
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 20, tot : 7486
+1	a
+1	bb
+1	bbb
+1	cccc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 7487
+1	a
+1	bb
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 7493
+1	a
+1	bb
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 20, tot : 7513
+1	a
+1	bb
+1	ccc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 7519
+1	a
+1	bb
+6	abc
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 120, tot : 7639
+1	a
+1	bb
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 8179
+1	a
+1	bb
+6	abc
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 720, tot : 8899
+1	a
+1	bb
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 36, tot : 8935
+1	a
+1	cc
+1	aaa
+1	aaaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 8936
+1	a
+1	cc
+1	aaa
+6	aabb
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 9056
+1	a
+1	cc
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 9596
+1	a
+1	cc
+1	aaa
+6	bbcc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 9716
+1	a
+1	cc
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 9836
+1	a
+1	cc
+1	aaa
+6	ccaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 9842
+1	a
+1	cc
+1	bbb
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 90, tot : 9932
+1	a
+1	cc
+1	bbb
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 9938
+1	a
+1	cc
+1	bbb
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 9944
+1	a
+1	cc
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 9950
+1	a
+1	cc
+6	abc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 10070
+1	a
+1	cc
+6	abc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 10076
+1	a
+2	ab
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 40, tot : 10116
+1	a
+2	ab
+1	aaa
+1	bbbb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 10156
+1	a
+2	ab
+1	aaa
+1	cccc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 40, tot : 10196
+1	a
+2	ab
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 11276
+1	a
+2	ab
+1	aaa
+6	bbcc
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 12356
+1	a
+2	ab
+1	aaa
+6	ccaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 13436
+1	a
+2	ab
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 13476
+1	a
+2	ab
+1	bbb
+1	cccc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 13478
+1	a
+2	ab
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 40, tot : 13518
+1	a
+2	ab
+1	ccc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 13520
+1	a
+2	ab
+6	abc
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 240, tot : 13760
+1	a
+2	ab
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 14840
+1	a
+2	ab
+6	abc
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 1440, tot : 16280
+1	a
+2	ab
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 16352
+1	a
+2	ab
+6	abc
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 1440, tot : 17792
+1	a
+2	bc
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 40, tot : 17832
+1	a
+2	bc
+1	aaa
+1	bbbb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 17872
+1	a
+2	bc
+1	aaa
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 240, tot : 18112
+1	a
+2	bc
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 19192
+1	a
+2	bc
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 19432
+1	a
+2	bc
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 19472
+1	a
+2	bc
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 19484
+1	a
+2	bc
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 40, tot : 19524
+1	a
+2	bc
+1	ccc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 19526
+1	a
+2	bc
+1	ccc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 19538
+1	a
+2	bc
+6	abc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 19778
+1	a
+2	bc
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 20858
+1	a
+2	bc
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 20930
+1	a
+2	bc
+6	abc
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 1440, tot : 22370
+1	a
+2	ca
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 40, tot : 22410
+1	a
+2	ca
+1	aaa
+1	aaaa
+1	bbbbb
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 22450
+1	a
+2	ca
+1	aaa
+1	bbbb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 22490
+1	a
+2	ca
+1	aaa
+6	aabb
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 240, tot : 22730
+1	a
+2	ca
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 23810
+1	a
+2	ca
+1	aaa
+6	bbcc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 24050
+1	a
+2	ca
+1	aaa
+6	ccaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 24062
+1	a
+2	ca
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 24102
+1	a
+2	ca
+1	bbb
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 180, tot : 24282
+1	a
+2	ca
+1	bbb
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 240, tot : 24522
+1	a
+2	ca
+1	bbb
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 24534
+1	a
+2	ca
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 40, tot : 24574
+1	a
+2	ca
+1	ccc
+1	aaaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 24576
+1	a
+2	ca
+1	ccc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 24578
+1	a
+2	ca
+1	ccc
+6	aabb
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 24818
+1	a
+2	ca
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 25898
+1	a
+2	ca
+6	abc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 25910
+1	a
+2	ca
+6	abc
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 6480, tot : 32390
+1	a
+2	ca
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 32462
+1	a
+2	ca
+6	abc
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 1440, tot : 33902
+1	b
+1	aa
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 20, tot : 33922
+1	b
+1	aa
+1	aaa
+1	bbbb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 20, tot : 33942
+1	b
+1	aa
+1	aaa
+1	cccc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 20, tot : 33962
+1	b
+1	aa
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 34502
+1	b
+1	aa
+1	aaa
+6	bbcc
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 35042
+1	b
+1	aa
+1	aaa
+6	ccaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 35582
+1	b
+1	aa
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 20, tot : 35602
+1	b
+1	aa
+1	bbb
+1	cccc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 35603
+1	b
+1	aa
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 20, tot : 35623
+1	b
+1	aa
+1	ccc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 35624
+1	b
+1	aa
+6	abc
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 120, tot : 35744
+1	b
+1	aa
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 36284
+1	b
+1	aa
+6	abc
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 720, tot : 37004
+1	b
+1	aa
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 36, tot : 37040
+1	b
+1	aa
+6	abc
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 720, tot : 37760
+1	b
+1	bb
+1	aaa
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 90, tot : 37850
+1	b
+1	bb
+1	aaa
+1	cccc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 37851
+1	b
+1	bb
+1	aaa
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 120, tot : 37971
+1	b
+1	bb
+1	aaa
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 37977
+1	b
+1	bb
+1	aaa
+6	ccaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 38517
+1	b
+1	bb
+1	ccc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 38523
+1	b
+1	bb
+6	abc
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 120, tot : 38643
+1	b
+1	bb
+6	abc
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 36, tot : 38679
+1	b
+1	cc
+1	aaa
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 90, tot : 38769
+1	b
+1	cc
+1	aaa
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 38770
+1	b
+1	cc
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 39310
+1	b
+1	cc
+1	aaa
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 39316
+1	b
+1	cc
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 39436
+1	b
+1	cc
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 39442
+1	b
+1	cc
+6	abc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 39562
+1	b
+1	cc
+6	abc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 36, tot : 39598
+1	b
+2	ab
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 40, tot : 39638
+1	b
+2	ab
+1	aaa
+1	cccc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 40, tot : 39678
+1	b
+2	ab
+1	aaa
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 240, tot : 39918
+1	b
+2	ab
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 40158
+1	b
+2	ab
+1	aaa
+6	ccaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 41238
+1	b
+2	ab
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 41278
+1	b
+2	ab
+1	bbb
+1	cccc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 41280
+1	b
+2	ab
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 41292
+1	b
+2	ab
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 40, tot : 41332
+1	b
+2	ab
+1	ccc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 41344
+1	b
+2	ab
+6	abc
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 240, tot : 41584
+1	b
+2	ab
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 42664
+1	b
+2	ab
+6	abc
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 1440, tot : 44104
+1	b
+2	ab
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 44176
+1	b
+2	bc
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 40, tot : 44216
+1	b
+2	bc
+1	aaa
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 180, tot : 44396
+1	b
+2	bc
+1	aaa
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 240, tot : 44636
+1	b
+2	bc
+1	aaa
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 44648
+1	b
+2	bc
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 44888
+1	b
+2	bc
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 44928
+1	b
+2	bc
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 44940
+1	b
+2	bc
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 40, tot : 44980
+1	b
+2	bc
+1	ccc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 44992
+1	b
+2	bc
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 46072
+1	b
+2	bc
+6	abc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 46144
+1	b
+2	bc
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 46216
+1	b
+2	bc
+6	abc
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 46288
+1	b
+2	ca
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 40, tot : 46328
+1	b
+2	ca
+1	aaa
+1	bbbb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 46368
+1	b
+2	ca
+1	aaa
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 240, tot : 46608
+1	b
+2	ca
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 47688
+1	b
+2	ca
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 47928
+1	b
+2	ca
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 47968
+1	b
+2	ca
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 47980
+1	b
+2	ca
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 40, tot : 48020
+1	b
+2	ca
+1	ccc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 48022
+1	b
+2	ca
+1	ccc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 48034
+1	b
+2	ca
+6	abc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 48274
+1	b
+2	ca
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 49354
+1	b
+2	ca
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 49426
+1	b
+2	ca
+6	abc
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 1440, tot : 50866
+1	c
+1	aa
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 20, tot : 50886
+1	c
+1	aa
+1	aaa
+1	aaaa
+1	bbbbb
+20	cccaaa
+1	aaaaaaa
+mid : 20, tot : 50906
+1	c
+1	aa
+1	aaa
+1	bbbb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 20, tot : 50926
+1	c
+1	aa
+1	aaa
+6	aabb
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 120, tot : 51046
+1	c
+1	aa
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 51586
+1	c
+1	aa
+1	aaa
+6	bbcc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 51706
+1	c
+1	aa
+1	aaa
+6	ccaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 51712
+1	c
+1	aa
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 20, tot : 51732
+1	c
+1	aa
+1	bbb
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 90, tot : 51822
+1	c
+1	aa
+1	bbb
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 120, tot : 51942
+1	c
+1	aa
+1	bbb
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 51948
+1	c
+1	aa
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 20, tot : 51968
+1	c
+1	aa
+1	ccc
+1	aaaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 51969
+1	c
+1	aa
+1	ccc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 51970
+1	c
+1	aa
+1	ccc
+6	aabb
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 52090
+1	c
+1	aa
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 52630
+1	c
+1	aa
+6	abc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 52636
+1	c
+1	aa
+6	abc
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 3240, tot : 55876
+1	c
+1	aa
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 36, tot : 55912
+1	c
+1	aa
+6	abc
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 720, tot : 56632
+1	c
+1	bb
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 20, tot : 56652
+1	c
+1	bb
+1	aaa
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 90, tot : 56742
+1	c
+1	bb
+1	aaa
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 120, tot : 56862
+1	c
+1	bb
+1	aaa
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 56868
+1	c
+1	bb
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 56988
+1	c
+1	bb
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 20, tot : 57008
+1	c
+1	bb
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 57014
+1	c
+1	bb
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 20, tot : 57034
+1	c
+1	bb
+1	ccc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 57040
+1	c
+1	bb
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 540, tot : 57580
+1	c
+1	bb
+6	abc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 36, tot : 57616
+1	c
+1	bb
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 36, tot : 57652
+1	c
+1	bb
+6	abc
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 36, tot : 57688
+1	c
+1	cc
+1	aaa
+1	aaaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 57689
+1	c
+1	cc
+1	aaa
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 1, tot : 57690
+1	c
+1	cc
+1	aaa
+6	aabb
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 57810
+1	c
+1	cc
+1	bbb
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 57816
+1	c
+1	cc
+6	abc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 120, tot : 57936
+1	c
+1	cc
+6	abc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 6, tot : 57942
+1	c
+1	cc
+6	abc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 36, tot : 57978
+1	c
+2	ab
+1	aaa
+1	aaaa
+1	aaaaa
+20	bbbccc
+1	aaaaaaa
+mid : 40, tot : 58018
+1	c
+2	ab
+1	aaa
+1	bbbb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 58058
+1	c
+2	ab
+1	aaa
+6	aabb
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 240, tot : 58298
+1	c
+2	ab
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 59378
+1	c
+2	ab
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 59618
+1	c
+2	ab
+1	bbb
+1	aaaa
+1	aaaaa
+20	cccaaa
+1	aaaaaaa
+mid : 40, tot : 59658
+1	c
+2	ab
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 59670
+1	c
+2	ab
+1	ccc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 40, tot : 59710
+1	c
+2	ab
+1	ccc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 59712
+1	c
+2	ab
+1	ccc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 59724
+1	c
+2	ab
+6	abc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 59964
+1	c
+2	ab
+6	abc
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 61044
+1	c
+2	ab
+6	abc
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 61116
+1	c
+2	ab
+6	abc
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 1440, tot : 62556
+1	c
+2	bc
+1	aaa
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 180, tot : 62736
+1	c
+2	bc
+1	aaa
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 62738
+1	c
+2	bc
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 63818
+1	c
+2	bc
+1	aaa
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 63830
+1	c
+2	bc
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 64070
+1	c
+2	bc
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 64082
+1	c
+2	bc
+6	abc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 64322
+1	c
+2	bc
+6	abc
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 72, tot : 64394
+1	c
+2	ca
+1	aaa
+1	aaaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 2, tot : 64396
+1	c
+2	ca
+1	aaa
+6	aabb
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 64636
+1	c
+2	ca
+1	aaa
+6	aabb
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 1080, tot : 65716
+1	c
+2	ca
+1	aaa
+6	bbcc
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 65956
+1	c
+2	ca
+1	aaa
+6	ccaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 66196
+1	c
+2	ca
+1	aaa
+6	ccaa
+1	bbbbb
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 66208
+1	c
+2	ca
+1	bbb
+1	aaaa
+1	aaaaa
+90	aabbcc
+1	aaaaaaa
+mid : 180, tot : 66388
+1	c
+2	ca
+1	bbb
+6	aabb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 66400
+1	c
+2	ca
+1	bbb
+6	bbcc
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 66412
+1	c
+2	ca
+1	bbb
+6	ccaa
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 66424
+1	c
+2	ca
+6	abc
+1	aaaa
+1	aaaaa
+20	aaabbb
+1	aaaaaaa
+mid : 240, tot : 66664
+1	c
+2	ca
+6	abc
+1	bbbb
+1	aaaaa
+1	aaaaaa
+1	aaaaaaa
+mid : 12, tot : 66676

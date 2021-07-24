@@ -1,0 +1,84 @@
+1	a
+1	aa
+1	bbb
+mid : 1, tot : 1
+1	a
+1	bb
+6	abc
+mid : 6, tot : 7
+1	a
+1	cc
+1	bbb
+mid : 1, tot : 8
+1	a
+2	ab
+6	abc
+mid : 12, tot : 20
+1	a
+2	bc
+6	abc
+mid : 12, tot : 32
+1	a
+2	ca
+1	bbb
+mid : 2, tot : 34
+1	a
+2	ca
+6	abc
+mid : 12, tot : 46
+1	b
+1	aa
+6	abc
+mid : 6, tot : 52
+1	b
+1	bb
+1	aaa
+mid : 1, tot : 53
+1	b
+1	cc
+1	aaa
+mid : 1, tot : 54
+1	b
+2	ab
+6	abc
+mid : 12, tot : 66
+1	b
+2	bc
+1	aaa
+mid : 2, tot : 68
+1	b
+2	bc
+6	abc
+mid : 12, tot : 80
+1	b
+2	ca
+6	abc
+mid : 12, tot : 92
+1	c
+1	aa
+1	bbb
+mid : 1, tot : 93
+1	c
+1	aa
+6	abc
+mid : 6, tot : 99
+1	c
+1	bb
+1	aaa
+mid : 1, tot : 100
+1	c
+1	bb
+6	abc
+mid : 6, tot : 106
+1	c
+2	ab
+6	abc
+mid : 12, tot : 118
+1	c
+2	bc
+1	aaa
+mid : 2, tot : 120
+1	c
+2	ca
+1	bbb
+mid : 2, tot : 122

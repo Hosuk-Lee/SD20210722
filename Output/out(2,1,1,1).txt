@@ -1,0 +1,9 @@
+1	a
+2	bc
+mid : 2, tot : 2
+1	b
+2	ca
+mid : 2, tot : 4
+1	c
+2	ab
+mid : 2, tot : 6
