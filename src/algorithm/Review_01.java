@@ -123,7 +123,7 @@ public class Review_01 {
 		}
 		str += "mid : " + tmp + ", tot : " + count + "\n";
 		System.out.print(str);
-		if ( fileOutYn )try{fw.write(str);} catch(IOException e){}
+		if ( fileOutYn )try{fw.write(str);fw.flush();} catch(IOException e){}
 	}
 	
 	// File Print
@@ -142,7 +142,7 @@ public class Review_01 {
 	public static void main(String[] args) {
 		Review_01 t = new Review_01();
 		t.isFileOut(true);
-		t.solution(10, 55, 1, 1);
+		t.solution(3,3,3,2);
 	}
 	
 	
