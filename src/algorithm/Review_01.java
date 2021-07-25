@@ -6,8 +6,8 @@ import java.io.IOException;
 
 public class Review_01 {
 	
-	private String strArr[] = null;
-	private long cntArr[] = null;
+	private String strArr[] = null; // 탑을 쌓은 방법을 담아둔 Array (Debug용)
+	private long cntArr[] = null;   // 층 마다 표현 할 수 있는 경우의수를 담은 Array (중간집계용)
 	private long count=0;
 	
 	public long solution(int N,int a,int b,int c) {
